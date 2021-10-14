@@ -1,0 +1,54 @@
+.viewControl {
+	padding: 4rem 0 0 0;
+	margin-bottom: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.view h1 {
+	font-size: 2.5rem;
+	color: #6f42c1;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.view img {
+	display: none;
+}
+
+.article {
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 0;
+	max-width: 50rem;
+	font-size: 1.2rem;
+}
+
+.action button {
+	font: inherit;
+	padding: 0.5rem 1.5rem;
+	border-radius: 4px;
+	font-weight: bold;
+	color: white;
+	background: #6f42c1;
+	border: 1px solid#6f42c1;
+}
+
+.action button:hover,
+.action button:active {
+	background-color: #7d54c8;
+	border-color: #7d54c8;
+}
+
+@media (min-width: 768px) {
+	.view h1 {
+		font-size: 5rem;
+		color: #6f42c1;
+		font-weight: bold;
+		margin-bottom: 0;
+	}
+	.view img {
+		display: flex;
+	}
+}

@@ -1,0 +1,71 @@
+.form {
+	padding: 1rem;
+}
+
+.form h3 {
+	color: #6f42c1;
+}
+
+.control {
+	margin-bottom: 0.5rem;
+}
+
+.control label {
+	position: absolute;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+	border: 1px solid #6f42c1;
+	padding: 0 0.65rem 0.15rem 0.65rem;
+}
+
+.control input {
+	position: relative;
+	font: inherit;
+	width: 80%;
+	border: 1px solid #6f42c1;
+	border-radius: 4px;
+	margin-bottom: 0.5rem;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	border-right-width: 0;
+	outline: none;
+}
+
+.control input::selection {
+	background: #6f42c1;
+	color: white;
+}
+
+.actions {
+	text-align: right;
+}
+
+.actions button {
+	font: inherit;
+	padding: 0.5rem 1.5rem;
+	border-radius: 4px;
+	font-weight: bold;
+	color: white;
+	background: #6f42c1;
+	border: 1px solid#6f42c1;
+}
+
+.actions button:hover,
+.actions button:active {
+	background-color: #7d54c8;
+	border-color: #7d54c8;
+}
+
+.invalid label {
+	color: #ca3e51;
+	border-color: #ca3e51;
+}
+
+.invalid input {
+	border-color: #aa0b20;
+	background-color: #ffeff1;
+}
+
+.error {
+	color: #ca3e51;
+}

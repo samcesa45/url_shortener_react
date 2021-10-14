@@ -1,0 +1,10 @@
+.label-input {
+	@include outlineNone;
+	&:focus,
+	&:active {
+		z-index: 0;
+		border: 0;
+		border-color: none;
+		outline: none;
+	}
+}
