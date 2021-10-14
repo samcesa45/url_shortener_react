@@ -22,7 +22,7 @@
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "yarn build",
-		"deploy": "gh-pages -b gh-pages -d build",
+		"deploy": "gh-pages -b gh-page -d build",
 		"compile-sass": "sass -w src/sass/main.scss:src/sass/main.css"
 	},
 	"eslintConfig": {

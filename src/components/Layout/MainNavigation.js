@@ -10,7 +10,11 @@ const MainNavigation = () => {
 			<nav className={classes.nav}>
 				<ul>
 					<li>
-						<a href="#github" className={classes.icon}>
+						<a
+							href="https://github.com/samcesa45/url_shortener_react"
+							target="_blank"
+							rel="noreferrer"
+							className={classes.icon}>
 							<GithubIcon />
 						</a>
 					</li>
