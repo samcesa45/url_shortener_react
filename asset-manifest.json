@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/url_shortener_react/.git/static/css/main.e76d767a.chunk.css",
+    "main.js": "/url_shortener_react/.git/static/js/main.31841dbe.chunk.js",
+    "main.js.map": "/url_shortener_react/.git/static/js/main.31841dbe.chunk.js.map",
+    "runtime-main.js": "/url_shortener_react/.git/static/js/runtime-main.4501f28b.js",
+    "runtime-main.js.map": "/url_shortener_react/.git/static/js/runtime-main.4501f28b.js.map",
+    "static/js/2.50d9ad9a.chunk.js": "/url_shortener_react/.git/static/js/2.50d9ad9a.chunk.js",
+    "static/js/2.50d9ad9a.chunk.js.map": "/url_shortener_react/.git/static/js/2.50d9ad9a.chunk.js.map",
+    "static/js/3.f9fe18ea.chunk.js": "/url_shortener_react/.git/static/js/3.f9fe18ea.chunk.js",
+    "static/js/3.f9fe18ea.chunk.js.map": "/url_shortener_react/.git/static/js/3.f9fe18ea.chunk.js.map",
+    "index.html": "/url_shortener_react/.git/index.html",
+    "static/css/main.e76d767a.chunk.css.map": "/url_shortener_react/.git/static/css/main.e76d767a.chunk.css.map",
+    "static/js/2.50d9ad9a.chunk.js.LICENSE.txt": "/url_shortener_react/.git/static/js/2.50d9ad9a.chunk.js.LICENSE.txt",
+    "static/media/Brainstorming session _Isometric.05cbd73f.png": "/url_shortener_react/.git/static/media/Brainstorming session _Isometric.05cbd73f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4501f28b.js",
+    "static/js/2.50d9ad9a.chunk.js",
+    "static/css/main.e76d767a.chunk.css",
+    "static/js/main.31841dbe.chunk.js"
+  ]
+}
