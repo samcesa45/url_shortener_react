@@ -10,10 +10,11 @@ const View = () => {
 			</div>
 			<article className={classes.article}>
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ducimus
-					animi soluta velit amet ratione. Lorem ipsum dolor sit amet
-					consectetur adipisicing elit. Quo ducimus animi soluta velit amet
-					ratione.
+					Short.ly is a simple url shortener app that helps you transform your
+					long urls to shoter one. Which enables your site's url to be accessed
+					without much hassles. Thereby increases your site reacheability and
+					generate good traffic for your business. I hope you get all the
+					benefits you desire while using this site.
 				</p>
 			</article>
 

@@ -56,6 +56,14 @@
 	border-color: #7d54c8;
 }
 
+button:disabled,
+button:disabled:hover,
+button:disabled:active {
+	cursor: not-allowed;
+	background-color: #ccc;
+	border-color: white;
+}
+
 .invalid label {
 	color: #ca3e51;
 	border-color: #ca3e51;
